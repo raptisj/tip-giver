@@ -4,7 +4,6 @@
 			<v-btn class="" color="lighten-2" v-on="on">
 				Days Total
 			</v-btn>
-
 		</template>
 
 		<v-card>
